@@ -1,0 +1,17 @@
+languages = [
+    "Arabic",
+    "Chinese",
+    "Dutch",
+    "English",
+    "French",
+    "German",
+    "Hindi",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Sanskrit",
+    "Spanish",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+]
